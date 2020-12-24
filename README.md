@@ -1,12 +1,12 @@
-<p align="center">Тестовое задание для Заказчика</p>
-<p align="left">Какие изменения были внесены:</p>
+<p align="center">Test task</p>
+<p align="left">What changes have been made:</p>
 <ul>
-    <li>Обычный Laravel 7.0 из коробки</li>
-    <li>Загружена авторизация</li>
-    <li>npm для фронта</li>
-    <li>Созданы 2 контроллера: ApiController.php и PageController.php</li>
-    <li>Маршруты прописаны в: api.php и web.php</li>
-    <li>Index переброшен в View welcome.blade.php</li>
-    <li>в welcome.blade.php подключен ExampleComponent.vue</li>
-    <li>Далее вся информация по api передаётся на ExampleComponent.vue, реактивно отрисовываются списки (таблица)</li>
+    <li>Simple Laravel 7.0 out of the box</li>
+    <li>Authorization loaded</li>
+    <li>npm installed</li>
+    <li>Created 2 controllers: ApiController.php & PageController.php</li>
+    <li>Routes are written in: api.php & web.php</li>
+    <li>Index redirect to welcome.blade.php after PageController</li>
+    <li>In welcome.blade.php append ExampleComponent.vue</li>
+    <li>Further, all information on api is transferred to ExampleComponent.vue, lists are reactively rendered (table)</li>
 </p>
