@@ -9,5 +9,5 @@
     <li>Index redirect to welcome.blade.php after PageController</li>
     <li>In welcome.blade.php append ExampleComponent.vue</li>
     <li>Further, all information on api is transferred to ExampleComponent.vue, lists are reactively rendered (table)</li>
-</p>
+</ul>
 <p>Task complited for 1 hours +-15min</p>
