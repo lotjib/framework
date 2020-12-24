@@ -10,3 +10,4 @@
     <li>In welcome.blade.php append ExampleComponent.vue</li>
     <li>Further, all information on api is transferred to ExampleComponent.vue, lists are reactively rendered (table)</li>
 </p>
+<p>Task complited for 1 hours +-15min</p>
